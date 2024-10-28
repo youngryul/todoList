@@ -1,4 +1,3 @@
-import './App.css';
 import {createGlobalStyle} from "styled-components";
 import ToDoList from "./ToDoList";
 
